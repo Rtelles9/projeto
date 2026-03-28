@@ -1,6 +1,6 @@
 :root {
   font-family: "Alice", serif;
-  color: #573A37;
+  color: #573a37;
   /*root Aplica a fonte em toda página*/
 }
 
@@ -14,7 +14,7 @@ body {
   padding: 24px;
   background-color: #f0e8c2;
   border-radius: 24px;
-  margin: 48px; auto;
+  margin: 48px auto;
 }
 h1 {
   line-height: 140%;
@@ -23,6 +23,16 @@ h1 {
 h2 {
   font-size: 24px;
 }
-h1, h2 {
-  color: #291B1A;
+h1,
+h2 {
+  color: #291b1a;
+}
+footer {
+  color: #514d3b;
+  text-align: center;
+  padding: 48px;
+}
+
+footer img {
+  vertical-align: middle;
 }
